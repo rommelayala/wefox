@@ -4,14 +4,15 @@ Check CRUD process in http://localhost:8080/api/v3/pet via API
 
 ## Requerimients
 
- - Make sure you have Node.js installed on your machine. You can download it from https://nodejs.org/. 
+ - Make sure you have Node.js installed on your machine. You can download it from https://nodejs.org/.
+ - Make sure you have docker installed  on your machine. You can get it from https://docs.docker.com/get-docker/
 
 ## Installation
 
 - Clone this repository to your local machine:
 
 ```
-git clone <REPOSITORY_URL>
+git clone https://github.com/rommelayala/wefox.git
 ```
 
 - Navigate to the project directory:
