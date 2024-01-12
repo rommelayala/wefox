@@ -18,7 +18,7 @@ git clone https://github.com/rommelayala/wefox.git
 - Navigate to the project directory:
 
 ```
-cd cypress-template
+cd wefox
 ```
 
 - Install the necessary dependencies using the following command:
